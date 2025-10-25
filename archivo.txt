@@ -1,18 +1,1 @@
-Seré tu amante bandido, bandidoooo, corazon corazon mal herido. Me perderé en un momento
-contigo seré tu ere de amorrrrrr.
-
-Resistiré para seguir viviendo, soportaré los golpes y jamás me rendiré 
-soy como el junco que se dobla pero sigue siempre en pie, me volveré de hierrro 
-para endurece la piel 
- 
-iuubibb
-
- COMO YO TE AMOOOO, NADIE TE AMARÁ, YO TE AMO CON LA FUERZA DE LOS MARES
-cambios en feature1 
-Cambios en feature2
-<<<<<<< HEAD
-
-marcioooooo
-CAMBIO EN MAIN
-=======
->>>>>>> 1d48b2a (Agregar cambios en feature2)
+HOLA BUENAS TARDES MI NOMBRE ES DIEGO
