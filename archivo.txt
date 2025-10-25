@@ -10,6 +10,9 @@ iuubibb
  COMO YO TE AMOOOO, NADIE TE AMARÁ, YO TE AMO CON LA FUERZA DE LOS MARES
 cambios en feature1 
 Cambios en feature2
+<<<<<<< HEAD
 
 marcioooooo
 CAMBIO EN MAIN
+=======
+>>>>>>> 1d48b2a (Agregar cambios en feature2)
