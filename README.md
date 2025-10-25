@@ -1,3 +1,3 @@
-## Mejora
-Esta línea es diferente desde main.
+Esta es la versión final combinada.
+
 
